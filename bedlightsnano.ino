@@ -1,7 +1,7 @@
 
 
 // this is my bed illumination using PWM to fade the LEDS, not as bright as digital output
-
+// on lines 56 and 57
 // with overide of pins for working with nano 
 
 
